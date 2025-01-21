@@ -101,7 +101,7 @@ body {
 
 /* Fundo da página */
 #background-image {
-    background-image: url('/ImagensSoberana/fundo2.png');
+    background-image: url('ImagensSoberana/fundo2.png');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
